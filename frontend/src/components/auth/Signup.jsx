@@ -22,7 +22,7 @@ const Signup = () => {
 
     try {
       setLoading(true);
-      const res = await axios.post("http://localhost:3002/signup", {
+      const res = await axios.post("https://gitnest.onrender.com/signup", {
         email: email,
         password: password,
         username: username,
