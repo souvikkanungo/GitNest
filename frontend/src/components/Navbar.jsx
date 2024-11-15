@@ -11,7 +11,7 @@ const Navbar = () => {
             src="https://www.github.com/images/modules/logos_page/GitHub-Mark.png"
             alt="GitHub Logo"
           />
-          <h3>GitNest</h3>
+          <h3>GitHub</h3>
         </div>
       </Link>
       <div>
